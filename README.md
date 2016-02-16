@@ -2,4 +2,4 @@
 
 # CocosBuilder editor support for Cocos2D-X 3
 
-Compatible CocosBuilder repository: https://github.com/shkatulo/CocosBuilder-cc2dx-3-compatible
+Compatible CocosBuilder repository: https://github.com/shkatulo/CocosBuilder-cc2dx-3-compatible/tree/cocos2d-x-3-compatible
